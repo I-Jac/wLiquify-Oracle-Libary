@@ -1,5 +1,11 @@
 CoingeckoID,Symbol,CoingeckoChainName,Address
-
+wrapped-bitcoin,BTC,ethereum,0x2260fac5e5542a773aa44fbcfedf7c193bc2c599
+weth,ETH,ethereum,0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+binance-peg-xrp,XRP,binance-smart-chain,0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe
+wrapped-solana,SOL,solana,So11111111111111111111111111111111111111112
+binance-peg-dogecoin,DOGE,binance-smart-chain,0xba2ae424d960c26247dd6c32edc70b295c744c43
+binance-peg-cardano,ADA,binance-smart-chain,0x3ee2200efb3400fabb9aacf31297cbdd1d435d47
+chainlink,LINK,ethereum,0x514910771af9ca656af840dff83e8264ecf986ca
 
 
 
